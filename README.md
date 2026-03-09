@@ -55,6 +55,9 @@ Econometric analysis identifying factors influencing farmer adoption of the elec
 ## Contact
 
 📧 **Email:** [kiranrasarit@gmail.com](mailto:kiranrasarit@gmail.com)
+
 📱 **Mobile:** +91 9100564064
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/kiranrasarit
+
 💻 **GitHub:** https://github.com/Rasarit
